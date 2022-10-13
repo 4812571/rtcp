@@ -1,0 +1,4 @@
+project: rtcp
+target: fuzz
+cmds:
+- cmd: /out/fuzz
